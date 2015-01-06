@@ -1,0 +1,5 @@
+D:\C#\project\SuperAgent\SuperAgent\bin\Debug\SuperAgent.dll
+D:\C#\project\SuperAgent\SuperAgent\bin\Debug\SuperAgent.pdb
+D:\C#\project\SuperAgent\SuperAgent\obj\Debug\SuperAgent.dll
+D:\C#\project\SuperAgent\SuperAgent\obj\Debug\SuperAgent.pdb
+D:\C#\project\SuperAgent\SuperAgent\obj\Debug\SuperAgent.csprojResolveAssemblyReference.cache

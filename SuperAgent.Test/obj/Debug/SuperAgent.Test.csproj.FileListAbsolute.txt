@@ -1,0 +1,17 @@
+D:\C#\project\SuperAgent\SuperAgent.Test\bin\Debug\SuperAgent.Test.pdb
+D:\C#\project\SuperAgent\SuperAgent.Test\obj\Debug\SuperAgent.Test.csprojResolveAssemblyReference.cache
+D:\C#\project\SuperAgent\SuperAgent.Test\obj\Debug\SuperAgent.Test.pdb
+D:\C#\project\SuperAgent\SuperAgent.Test\bin\Debug\xunit.execution.dll
+D:\C#\project\SuperAgent\SuperAgent.Test\bin\Debug\SuperAgent.Test.dll
+D:\C#\project\SuperAgent\SuperAgent.Test\bin\Debug\xunit.abstractions.dll
+D:\C#\project\SuperAgent\SuperAgent.Test\obj\Debug\SuperAgent.Test.dll
+D:\C#\project\SuperAgent\SuperAgent.Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\C#\project\SuperAgent\SuperAgent.Test\bin\Debug\xunit.runner.utility.dll
+D:\C#\project\SuperAgent\SuperAgent.Test\bin\Debug\xunit.assert.dll
+D:\C#\project\SuperAgent\SuperAgent.Test\bin\Debug\xunit.core.dll
+D:\C#\project\SuperAgent\SuperAgent.Test\bin\Debug\xunit.assert.pdb
+D:\C#\project\SuperAgent\SuperAgent.Test\bin\Debug\xunit.assert.xml
+D:\C#\project\SuperAgent\SuperAgent.Test\bin\Debug\xunit.core.pdb
+D:\C#\project\SuperAgent\SuperAgent.Test\bin\Debug\xunit.core.xml
+D:\C#\project\SuperAgent\SuperAgent.Test\bin\Debug\SuperAgent.dll
+D:\C#\project\SuperAgent\SuperAgent.Test\bin\Debug\SuperAgent.pdb

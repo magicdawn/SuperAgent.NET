@@ -1,0 +1,7 @@
+D:\C#\project\SuperAgent\ConsoleTest\bin\Debug\ConsoleTest.exe
+D:\C#\project\SuperAgent\ConsoleTest\bin\Debug\ConsoleTest.pdb
+D:\C#\project\SuperAgent\ConsoleTest\bin\Debug\SuperAgent.dll
+D:\C#\project\SuperAgent\ConsoleTest\bin\Debug\SuperAgent.pdb
+D:\C#\project\SuperAgent\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+D:\C#\project\SuperAgent\ConsoleTest\obj\Debug\ConsoleTest.exe
+D:\C#\project\SuperAgent\ConsoleTest\obj\Debug\ConsoleTest.pdb
